@@ -25,3 +25,16 @@ proguard/
 
 # Log Files
 *.log
+
+dist/
+out/
+.idea/
+*.iml
+assets/auto_gen_build.properties
+.svn/
+out/
+.idea
+.DS_Store
+Thumbs.db
+assets/config.json
+captures
